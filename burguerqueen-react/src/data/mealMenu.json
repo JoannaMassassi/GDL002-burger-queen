@@ -1,0 +1,55 @@
+
+[
+           {
+            "name": "Hamburguesa simple",
+            "price": "$10.00", 
+            "type":  "lunch",
+            "value": 10
+        },
+        {
+            "name": "Hamburguesa doble",
+            "price": "$15.00",
+            "type":  "lunch" , 
+            "value": 15
+        },
+        {
+            "name": "Papas fritas",
+            "price": "$5.00",
+            "type":  "lunch",
+            "value": 5
+        },
+        
+        {
+            "name": "Aros de cebolla",
+            "price": "$5.00",
+            "type":  "food" ,
+            "value": 5
+        },
+
+        {
+            "name": "Agua 500ml",
+            "price": "$5.00",
+            "type":  "drinks" ,
+            "value": 5
+        },
+
+        {
+            "name": "Agua 750ml",
+            "price": "$7.00",
+            "type":  "drinks" ,
+            "value": 7
+        },
+        {
+            "name": "Bebida/gaseosa 500ml",
+            "price": "$7.00",
+            "type":  "drinks" ,
+            "value": 7
+        },
+
+        {
+            "name": "Bebida/gaseosa 750ml",
+            "price": "$10.00",
+            "type":  "drinks" ,
+            "value": 10
+        }
+    ]        

@@ -1,0 +1,30 @@
+
+[  
+        {
+            "name": "Café americano",
+            "price": "$5.00", 
+            "type":  "drink",
+            "value": 5
+        },
+        {
+            "name": "Café con leche",
+            "price": "$7.00",
+            "type":  "drink" , 
+            "value": 7
+        },
+        {
+            "name": "Jugo de frutas natural",
+            "price": "$7.00",
+            "type":  "drink",
+            "value": 7
+        },
+        
+        {
+            "name": "Sandwich de jamón y queso",
+            "price": "$10.00",
+            "type":  "food" ,
+            "value": 10 
+        } 
+    
+]
+

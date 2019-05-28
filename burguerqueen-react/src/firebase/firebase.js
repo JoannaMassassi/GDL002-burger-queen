@@ -14,5 +14,5 @@ import firebase from 'firebase';
 
   firebase.database().ref().set({
       name: name,
-      id: 2
+      id: 4
   });
